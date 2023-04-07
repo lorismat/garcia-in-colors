@@ -42,6 +42,7 @@ A regularly updated `nuxt` project with the following features and integration:
 
 # to do
 
+- play with colors
 - create another repo that can capture the changes
 - create a module that can be used
 - create a module package that can be used
